@@ -39,3 +39,6 @@ https://www.kaggle.com/code/karishmaajain/customer-support-ai
 
 ## Author
 Karishma Jain
+
+### Kaggle live presentation 
+https://youtu.be/kBjBrAKKz4g?si=F55pcAM4x82qGB95
